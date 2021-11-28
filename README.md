@@ -1,1 +1,3 @@
 # my_ruby_tool
+
+Dockerコンテナ内からアクセスすることになるため、localhostをhost.docker.internalに書き換える必要がある
